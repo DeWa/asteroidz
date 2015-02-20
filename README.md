@@ -5,18 +5,26 @@ HTML5 Space Game (May somewhat resemble classic arcade game Asteroids)
 More info coming soon!
 
 ### Version
-0.0.1
+0.1.0
 
 ### Installation
 
 Soon...
 
+### Demo
+[Demo]
+
 ### Todo's
 
- - Pretty much anything
- - Better Readme.md
+ - Asteroids
+ - Shooting
+ - Multiplayer
+ - Server 
+
 
 License
 ----
 
 MIT
+
+[Demo]:http://www.dewasted.net/asteroids/
