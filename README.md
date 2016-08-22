@@ -27,4 +27,4 @@ License
 
 MIT
 
-[Demo]:http://www.dewasted.net/asteroids/
+[Demo]:http://www.dewasted.net/asteroidz/
